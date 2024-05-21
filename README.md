@@ -73,3 +73,20 @@ This repository contains three main R Markdown files (`.Rmd`). Here is a brief d
      ```
 
 Replace the file paths (`"C:/ARQUIVOS COMPUTADOR/DOUTORADO/DOUTORADO TESE/..."`) with the actual paths to the `.Rmd` files on your system. Make sure to correct any typos or extra spaces in the file names.
+
+## Contribution
+
+You are welcome to contribute to this project in several ways:
+
+- Open issues reporting bugs or suggesting new features.
+- Send pull requests with bug fixes or improvements.
+- Provide feedback on how we can make this project even better.
+
+If you want to contribute code, please follow these guidelines:
+- Create a separate branch for your changes.
+- Clearly describe your changes in the pull request.
+- Make sure your code is adequately tested.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for more details.
