@@ -76,9 +76,11 @@ Replace the file paths (`"C:/ARQUIVOS COMPUTADOR/DOUTORADO/DOUTORADO TESE/..."`)
 
 The files needed to run the code were larger than what GitHub allowed. Therefore, the files were made available in a folder on OneDrive:
 
-Demographic analyses: https://1drv.ms/f/s!AtQOHKy-igqQj60icS1VwRRIL3xDzA?e=6lIQeb
-Land use and cover analyses: https://1drv.ms/f/s!AtQOHKy-igqQj60jJOB-jAURT5bnrQ?e=wgyQKc
-Mapping of São Paulo anthromes: https://1drv.ms/f/s!AtQOHKy-igqQj60hv3as_q7jlWaRjg?e=rWdB57
+- Demographic analyses: https://1drv.ms/f/s!AtQOHKy-igqQj60icS1VwRRIL3xDzA?e=6lIQeb
+
+- Land use and cover analyses: https://1drv.ms/f/s!AtQOHKy-igqQj60jJOB-jAURT5bnrQ?e=wgyQKc
+
+- Mapping of São Paulo anthromes: https://1drv.ms/f/s!AtQOHKy-igqQj60hv3as_q7jlWaRjg?e=rWdB57
 
 
 ## Contribution
